@@ -10,5 +10,7 @@ Sometimes he puts emoticons within parentheses, and you find it hard to tell if 
 * A message with balanced parentheses followed by another message with balanced parentheses. 
 * A smiley face ":)" or a frowny face ":("
 Write a program that determines if there is a way to interpret his message while leaving the parentheses balanced. Input: Your program should read lines from standard input. Each line contains a message that you got from John. Output: Print out the string "YES"/"NO" (all quotes for clarity only) stating whether or not it is possible that the message had balanced parentheses.
+
 Test 1 Test Input: i am sick today (:() Expected Output: YES
+
 Test 2 Test Input: (:) Expected Output YES
